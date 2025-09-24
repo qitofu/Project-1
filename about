@@ -1,0 +1,23 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<link rel="icon" href="https://github.com/qitofu/Project-1/blob/main/assets/image.png?raw=true" />
+<head>
+  <meta charset="utf-8">
+  <title>Xiao Huang The Cat</title
+<meta name="" content="This is a website about my cat and his various sides. He can be cuddly and loving one moment, then biting and yelling for food the next.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  
+  <!-- Defines preview content that will be displayed when your site is linked on twitter, reddit, etc-->
+  <meta property="og:title" content="Xiao Huang The Cat">
+  <meta property="og:type" content="Article">
+  <meta property="og:url" content="https://qitofu.github.io/Project-1/">
+  <meta property="og:image" content="exampleImage.jpg">
+
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="/script.js" defer></script>
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+      
